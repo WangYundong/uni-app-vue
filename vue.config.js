@@ -1,0 +1,1 @@
+module.exports = { transpileDependencies: ['/node_modules/easemob-webrtc', 'easemob-webrtc'] }
